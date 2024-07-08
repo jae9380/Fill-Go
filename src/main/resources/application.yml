@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Fill-Go
+server:
+  port: 8090
